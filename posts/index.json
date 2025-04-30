@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Welcome to My Blog",
+        "slug": "welcome",
+        "date": "2024-03-20",
+        "excerpt": "Welcome to my new blog! This is my first post, and I'm excited to share my thoughts and experiences with you."
+    },
+    {
+        "title": "5 Essential Web Development Tips for Beginners",
+        "slug": "web-dev-tips",
+        "date": "2024-06-15",
+        "excerpt": "Starting your journey in web development can be both exciting and overwhelming. Here are five essential tips that I wish I knew when I first started."
+    },
+    {
+        "title": "5 Passive income tips",
+        "slug": "income-tips",
+        "date": "2024-06-15",
+        "excerpt": "Starting passive income can be both exciting and overwhelming. Here are five essential tips that I wish I knew when I first started."
+    }    
+] 
